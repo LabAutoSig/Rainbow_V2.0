@@ -1,11 +1,11 @@
 # An expandable voice user interface as lab assistant based on an improved version of Google’s speech recognition
-## For details read our article here: https://doi.org/10.1038/s41598-023-46185-x 
+
 ![image](https://github.com/user-attachments/assets/5b4cd0ab-f053-4479-b048-d053eabe3fcc)
 
 ## Introduction
 Welcome to Rainbow – your open source voice user interface (VUI) for scientific lab. 
 Rainbow is AutoIt-based, meaning we provide here mainly AutoIt scripts. You can 
-view Rainbows skills and further explanations in **DOI: 10.1038/s41598-023-46185-x**.
+view Rainbows skills and further explanations in [**DOI: 10.1038/s41598-023-46185-x**](https://doi.org/10.1038/s41598-023-46185-x).
 This file gives step-by-step instructions of how to configure Rainbow to work on your 
 Windows 10 PC. Please adapt script Rainbow_2.au3 (Mainscript), 
 Rainbow_Timer.au3 and SMP_Script.au3.
